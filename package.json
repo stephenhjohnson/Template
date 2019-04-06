@@ -1,0 +1,23 @@
+{
+  "name": "Template",
+  "version": "1.0.1",
+  "description": "Will be used as the source for all other mini Javascript projects to be uploaded to the website",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stephenhjohnson/Template.git"
+  },
+  "author": "Stephen Johnson",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/stephenhjohnson/Template/issues"
+  },
+  "homepage": "https://github.com/stephenhjohnson/Template#readme"
+}
